@@ -1,0 +1,6 @@
+venv
+AVAWeb/accounts/__pycache__
+AVAWeb/accounts/migrations/
+AVAWeb/AVAWeb/__pycache__
+AVAWeb/users/__pycache__
+AVAWeb/users/migrations/
